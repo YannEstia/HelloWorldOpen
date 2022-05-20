@@ -1,4 +1,4 @@
 def sayHello(text):
     print(text)
 
-sayHello("HelloWorld")
+sayHello("Hello World !")
