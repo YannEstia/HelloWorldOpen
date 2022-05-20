@@ -7,4 +7,6 @@ def soustraction(a,b):
 def multiplication(a,b,d,e):
     return(a*b*d*e)
 
+def division(a,b):
+    return(a/b)
 #commentaire
