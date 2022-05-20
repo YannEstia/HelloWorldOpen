@@ -1,8 +1,10 @@
-def addition(a,b):
-    return(a+b)
+def addition(a,b,c):
+    return(a+b+c)
 
 def soustraction(a,b):
     return(a-b)
 
-def multiplication(a,b,c,d):
-    return(a*b*c*d)
+def multiplication(a,b,d,e):
+    return(a*b*d*e)
+
+#commentaire
